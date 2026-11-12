@@ -2,10 +2,14 @@ __pycache__/
 *.pyc
 .venv/
 .env
-*.db
+*.db*
 *.sqlite*
 data/
 data_large/
+data_test/
+data_large_bench/
 reports/
+reports_test/
+reports_large_bench/
 final_state.csv
 .pytest_cache/
